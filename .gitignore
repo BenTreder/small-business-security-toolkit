@@ -1,0 +1,15 @@
+.DS_Store
+.vscode/
+.idea/
+.env
+.env.*
+private/
+_private/
+backups/
+backup/
+*.bak
+*.backup
+*.log
+reports/
+__pycache__/
+node_modules/
